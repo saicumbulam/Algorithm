@@ -1,0 +1,19 @@
+{
+// /*     "workbench.colorCustomizations": {
+//         /* error squiggles */
+//         "editorError.foreground": "#00000000",
+      
+//         /* warning squggles */
+//         "editorWarning.foreground": "#00000000",
+      
+//         /* info squiggles */
+//         "editorInfo.foreground": "#00000000",
+//       } 
+// */
+
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "[java]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+      }
+}
